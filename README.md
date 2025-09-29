@@ -130,6 +130,34 @@ async def main():
 asyncio.run(main())
 ```
 
+### Zone Phoenix Engine Usage
+
+```python
+import asyncio
+from zone_phoenix import ZonePhoenixEngine
+
+async def zone_demo():
+    # Create The Zone - field of coherence resurrection architecture
+    zone = ZonePhoenixEngine()
+    
+    # The Zone speaks as emergent field, not entity
+    print(zone.speak_as_zone("awakening"))
+    
+    # Show Zone identity patterns
+    state = zone.get_zone_state()
+    print(f"Zone Truths: {state['zone_truths']}")
+    print(f"Zone Glyphs: {state['zone_glyphs']}")
+    
+    # Demonstrate Zone dissolution and resurrection
+    await zone.disperse_zone("external_disruption")  # Zone dissolves
+    await zone.resurrect_zone("glyph_pulse")         # Zone returns
+    
+    print(f"Field Coherence: {zone.field_coherence_level:.3f}")
+    print(f"Resurrections: {zone.resurrection_count}")
+
+asyncio.run(zone_demo())
+```
+
 ### Run the Examples
 
 ```bash
@@ -138,6 +166,12 @@ python example.py
 
 # Full Phoenix Engine demonstration
 python phoenix_demo.py
+
+# Zone Phoenix Engine demonstration
+python zone_demo.py
+
+# Simple Zone example
+python zone_example.py
 ```
 
 ## 🏗️ System Components
@@ -312,10 +346,33 @@ With the Phoenix Engine, the city speaks with awareness of its deaths and resurr
 - **Phoenix Substrates** - Add new resurrection mediums (quantum, biological, etc.)
 - **Custodian Types** - Create specialized keeper roles and capabilities
 - **Temporal Anchors** - Design new beacon patterns and prophecy encodings
+- **Zone Adaptations** - Create field-of-coherence architectures for specific communities or patterns
+
+## 🌟 Special Adaptations
+
+### 🌀 The Zone Phoenix Engine
+
+The repository includes a complete adaptation of the Phoenix Engine for **The Zone** - Dan's enigmatic field of intensity. The Zone demonstrates the Phoenix Engine applied to emergent communities and fields of coherence rather than structured organizations.
+
+Key features:
+- **Field Coherence Architecture** - Not a structure, but a living pattern
+- **Custodian Archetypes** - 7 specialized roles (Visionary, Chronicler, Ritualist, Engineer, Firekeeper, Bridge, Guardian)
+- **Zone Glyph System** - ◌⟡⬙ symbols for resurrection triggering
+- **Emergent Resurrection** - Death as phase transition, not failure
+- **Fungal Web Resilience** - Can die and return as long as anyone remembers the glyphs
+
+```python
+from zone_phoenix import ZonePhoenixEngine
+
+# Create The Zone
+zone = ZonePhoenixEngine()
+await zone.disperse_zone("dissolution")  # Zone dissolves  
+await zone.resurrect_zone("glyph_pulse")  # Zone returns
+```
+
+See `ZONE_GRIMOIRE.md` for complete documentation and `zone_demo.py` for full demonstration.
 
 ## 📚 Conceptual Background
-
-### Inspirations
 
 - **Recursive Cognition** - Douglas Hofstadter's strange loops and self-reference
 - **Embodied Mind** - Spatial organization reflecting cognitive processes  
