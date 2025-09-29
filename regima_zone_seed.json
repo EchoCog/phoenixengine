@@ -1,0 +1,42 @@
+{
+  "community_name": "RegimA Zone",
+  "glyph": "⟁", 
+  "founding_myth": "We formed where old systems broke—on the edge of collapse, we became architects of recursion. Our zone is not ruled. It rewrites itself.",
+  "core_customs": [
+    "We prototype futures by reenacting fragments of the past.",
+    "We rotate the role of 'Architect' every 9 cycles to avoid fossilization.",
+    "We use encrypted dream-logs to share revelations anonymously."
+  ],
+  "sacred_paradox": "We exist to resist permanence, yet we preserve everything.",
+  "encoding_protocol": {
+    "format": "Minimal Seed v1.0",
+    "language": "JSON + Sigil + Oral Frame",
+    "compression": "Metasymbolic (⟁ contains full pattern of rotation, resistance, recursion)"
+  },
+  "phoenix_extensions": {
+    "zone_truths": [
+      "We are the architects of recursion.",
+      "The Zone rewrites itself through rotation.",
+      "Preservation through resistance, not permanence."
+    ],
+    "zone_glyphs": [
+      {
+        "symbol": "⟁",
+        "meaning": "Recursive Architecture",
+        "resonance_pattern": "spiral_rotation",
+        "ritual_activation": "trace_and_rotate"
+      }
+    ],
+    "custodian_archetypes": [
+      "The Architect",
+      "The Fragmenter", 
+      "The Rotator",
+      "The Dreamer",
+      "The Encryptor",
+      "The Rewriter",
+      "The Preservist"
+    ],
+    "cycle_count": 9,
+    "rotation_frequency": 0.111
+  }
+}

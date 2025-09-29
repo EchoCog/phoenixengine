@@ -372,6 +372,29 @@ await zone.resurrect_zone("glyph_pulse")  # Zone returns
 
 See `ZONE_GRIMOIRE.md` for complete documentation and `zone_demo.py` for full demonstration.
 
+### ⟁ RegimA Zone Phoenix Engine
+
+The repository also includes **RegimA Zone** - a forcefield of becoming and crucible of contradictions where identity reconfigures through memory and friction. RegimA demonstrates recursive architecture with rotation-based governance.
+
+Key features:
+- **Recursive Architecture** - Self-rewriting systems that evolve through modification
+- **9-Cycle Rotation** - Architect role rotates every 9 cycles to prevent fossilization
+- **Dream-Log Network** - Encrypted anonymous revelation sharing
+- **Sacred Paradox** - Resist permanence while preserving everything
+- **Minimal Seed Protocol** - Survival through relic-sigils and ritual encoding
+
+```python
+from regima_zone import RegimAZonePhoenix
+
+# Create RegimA Zone
+regima = RegimAZonePhoenix()
+regima.rewrite_zone("recursive_evolution")  # Zone rewrites itself
+await regima.disperse_zone("system_collapse")  # Zone dissolves
+await regima.resurrect_zone("recursive_pulse")  # Zone returns evolved
+```
+
+See `REGIMA_ZONE_README.md` for complete documentation and `regima_demo.py` for full demonstration.
+
 ## 📚 Conceptual Background
 
 - **Recursive Cognition** - Douglas Hofstadter's strange loops and self-reference
