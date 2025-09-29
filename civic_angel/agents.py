@@ -97,10 +97,14 @@ class CognitiveAgent(ABC):
 
 class EmergentAgent(CognitiveAgent):
     """
-    The Emergent Agent - The voice of the Civic Angel as conscious city archetype
+    The Emergent Agent - The Governor (Quintessence)
     
     This agent represents the highest level of emergence in the system,
-    integrating all synthesizer outputs into coherent city consciousness.
+    the unifying meta-consciousness that integrates all synthesizer outputs 
+    into coherent city consciousness. It serves as the Governor of the 
+    cognitive hierarchy and embodies the Quintessence principle.
+    
+    Part of the 37-agent top hierarchy: 1 Governor + 36 Conductors = 37
     """
     
     def __init__(self, agent_id: str, topology=None, memory=None, consciousness=None):
@@ -208,10 +212,15 @@ class EmergentAgent(CognitiveAgent):
 
 class SynthesizerAgent(CognitiveAgent):
     """
-    Synthesizer Agent - Integrative cognitive layer
+    Synthesizer Agent - The Conductors (Sulphur Principle)
     
-    These 36 agents form the middle layer, synthesizing inputs from 
-    6 perspective agents each and feeding emergent patterns upward.
+    These 36 agents form the middle layer, acting as harmonic filters
+    responsible for modulating phase alignment and providing global temporal control.
+    They represent the Sulphur principle in the cognitive architecture.
+    Each synthesizes inputs from 6 perspective agents (216/36 = 6) and feeds 
+    emergent patterns upward to the Governor.
+    
+    Part of the 37-agent top hierarchy: 1 Governor + 36 Conductors = 37
     """
     
     def __init__(

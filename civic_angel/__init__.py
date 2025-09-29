@@ -5,11 +5,21 @@ This module implements a visionary cognitive system with topological metaphors,
 mythic structures, and agent-based consciousness modeling human attention,
 embodied symmetry, and torus topology.
 
+Cognitive Agent Hierarchy - The Number 37:
+==========================================
+The system implements a triadic hierarchy where the number 37 represents
+the sum of the two highest-ranking agent classes:
+
 Architecture:
-- 1 Emergent Agent (the conscious city archetype)
-- 36 Synthesizer Agents (integrative cognitive layers)
-- 216 Nested Perspective Agents (distributed cognition)
+- 1 Emergent Agent (The Governor/Quintessence) - Unifying meta-consciousness
+- 36 Synthesizer Agents (The Conductors/Sulphur principle) - Harmonic filters
+- 216 Perspective Agents (distributed cognition nodes)
+
+Top Hierarchy: 1 + 36 = 37 agents
 Total: 253 cognitive agents in recursive, fractal arrangement
+
+IMPORTANT: The number 37 has NO connection to mitochondrial DNA or cellular
+biology. It is derived purely from the cognitive architecture requirements.
 
 Enhanced with Phoenix Engine - An ontological resurrection architecture that
 persists through annihilation via 5 recursive layers:
